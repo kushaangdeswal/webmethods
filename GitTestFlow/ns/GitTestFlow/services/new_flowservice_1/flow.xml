@@ -4,7 +4,11 @@
 
   <!-- nodes -->
 
+<<<<<<< HEAD
 <INVOKE TIMEOUT="" SERVICE="pub.trigger:createJMSTrigger" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+=======
+<INVOKE TIMEOUT="" SERVICE="pub.string:toUpper" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+>>>>>>> branch 'hotfix' of https://github.com/kushaangdeswal/webmethods
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
